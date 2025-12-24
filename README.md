@@ -21,8 +21,8 @@ A modern, responsive portfolio website showcasing cybersecurity expertise, servi
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd 27.sathish
+   git clone https://github.com/sathsish90/portfolio.git
+   cd portfolio
    ```
 
 2. **Install dependencies:**
@@ -84,7 +84,7 @@ The contact form requires email configuration. See [EMAIL_SETUP.md](./EMAIL_SETU
 ## 🗂️ Project Structure
 
 ```
-27.sathish/
+portfolio/
 ├── public/              # Static assets
 │   └── images/         # Profile photos and images
 ├── server/             # Backend API for email
@@ -151,4 +151,3 @@ This is a personal portfolio project. Contributions are not expected, but feedba
 ---
 
 **Note**: Make sure to configure environment variables before deploying to production. Never commit sensitive information like API keys or passwords to version control.
-
